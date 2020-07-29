@@ -89,4 +89,4 @@ Or, on a whole directory:
 
 # Glossary of Terms
 
-[Scripp's Guide](datasets/glossary.md)
+[Glossary](datasets/glossary.md)
